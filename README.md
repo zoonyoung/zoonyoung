@@ -1,7 +1,5 @@
  <div align=center>
  <h1>Jenith</h1>
-   
-프론트엔드 신입 개발자
 
 ---
 
